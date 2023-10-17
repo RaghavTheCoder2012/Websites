@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Poppins:wght@300&family=Schoolbell&display=swap');
+
+
+header > h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: red;
+    font-family: Poppins, sans-serif;
+}
+
+p {
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+}
+
+code {
+    color: white;
+    width: 50px;
+    font-family: menlo, monospace;
+}
+
+footer > p {
+    width: 200px;
+    margin: 821px;
+    padding: 0px;
+}
+
+main > h2 {
+    font-family: "Exo 2", sans-serif;
+}
+
+.code-1-svgcircle {
+    padding: 10px;
+    background-color: rgb(30, 30, 30);
+    white-space: white;
+    text-overflow: ellipsis;
+}
+
+.tag {
+    color: rgb(255, 47, 47);
+}
+
+.attribute {
+    color: rgb(235, 123, 18);
+}
+
+.value {
+    color: rgb(16, 149, 54);
+}
